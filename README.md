@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Robin.
+ - I'm currently learning JavaScript and improving my C# knowledge. 
+ - I'm a husband to a beautiful wife and a father of 2 wonderful children
+ - I'm an Office 365 Architect and as such most of what I work on revolves around that and a lot of PowerShell. 
+ - I am always looking to learn new things and am currently doing that through contributing to Sonarr and Radarr.
+
+#### Github Stats and Languages
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobinDadswell)
+
+ ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinDadswell)
+
 
 <!--
 **RobinDadswell/RobinDadswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
