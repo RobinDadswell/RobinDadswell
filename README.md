@@ -5,9 +5,9 @@
  
 
 #### Github Stats and Languages
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobinDadswell&count_private=true&show_icons=true&theme=dark)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobinDadswell&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinDadswell&count_private=true&theme=dark)
+ ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinDadswell&count_private=true&theme=dark&hide_border=true)
 
 <!--
 **RobinDadswell/RobinDadswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
