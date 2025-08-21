@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Robin.
- - I'm an Office 365 Architect and as such most of what I work on revolves around that and a lot of PowerShell. 
+ - I'm an Microsoft 365 Architect and as such most of what I work on revolves around that and a lot of PowerShell. 
  - Outside of PowerShell my langauge of choice is C#, however I also use JavaScript in some of my projects
- - I work on Radarr, Lidarr, Readarr and the rest of the main *arr stack as part of the development team
+ - I work on Radarr, Lidarr and Prowlarr as part of the development team
  
 
 #### Github Stats and Languages
